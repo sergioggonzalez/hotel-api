@@ -8,9 +8,9 @@ Ejemplo básico de una api de Hoteles.
 
 #### Requisitos:
 
-*Node 6.9
-*Mongo 3.3
-*npm
+- Node 6.9
+- Mongo 3.3
+- npm
 
 ```
 npm install
