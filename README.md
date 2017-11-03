@@ -23,7 +23,7 @@ nodemon serve
  docker-compose up
 ```
 
-##Documentación de endpoints con Swagger:
+### Documentación de endpoints con Swagger:
 
 ```
 http://localhost:3000/api-docs/
