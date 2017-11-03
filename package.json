@@ -17,5 +17,8 @@
     "swagger-ui-express": "latest"
   },
   "author": "Sergio Gonzalez",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
 }

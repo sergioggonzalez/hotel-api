@@ -1,5 +1,22 @@
-# Hotel API
-Ejemplo básico de una api de Hoteles para Al Mundo.
+#Hotel API
+Ejemplo básico de una api de Hoteles.
+
+#¿Cómo instalar la aplicación?
+
+##En un entorno local:
+###Requisitos:
+*Node 6.9
+*Mongo 3.3
+*npm
+
+> npm install
+> nodemon serve
+
+
+##Utilizando Docker:
+
+> docker-compose up
+
 
 ## Tecnologías utilizadas
 - [node.js](https://nodejs.org)
