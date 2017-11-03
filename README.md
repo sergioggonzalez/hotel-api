@@ -6,7 +6,8 @@ Ejemplo básico de una api de Hoteles.
 
 ### En un entorno local:
 
-####Requisitos:
+#### Requisitos:
+
 *Node 6.9
 *Mongo 3.3
 *npm
@@ -20,7 +21,7 @@ nodemon serve
 
 > docker-compose up
 
-
+ 
 ### Tecnologías utilizadas
 - [node.js](https://nodejs.org)
 - [Express.js](https://expressjs.com/)
