@@ -2,7 +2,7 @@
 
 Ejemplo básico de una api de Hoteles.
 
-## ¿Cómo instalar la aplicación?
+## ¿Cómo levantar la aplicación?
 
 ### En un entorno local:
 
@@ -19,7 +19,16 @@ nodemon serve
 
 ### Utilizando Docker:
 
-> docker-compose up
+```
+ docker-compose up
+```
+
+##Documentación de endpoints con Swagger:
+
+```
+http://localhost:3000/api-docs/
+
+```
 
  
 ### Tecnologías utilizadas
