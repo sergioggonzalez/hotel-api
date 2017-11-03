@@ -1,17 +1,20 @@
 #Hotel API
+
 Ejemplo básico de una api de Hoteles.
 
 #¿Cómo instalar la aplicación?
 
 ##En un entorno local:
-###Requisitos:
+
+######Requisitos:
 *Node 6.9
 *Mongo 3.3
 *npm
 
-> npm install
-> nodemon serve
-
+```
+npm install
+nodemon serve
+```
 
 ##Utilizando Docker:
 
